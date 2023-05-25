@@ -6,8 +6,8 @@
 </div>
 
  <div>
-  <h4>DevOps na NeoGrid  
-  <img align="center" alt="neogrid" height="30" width="30" src="https://github.com/andrefreddi/andrefreddi/blob/main/imagens/icon.png">
+  <h4>DevOps na Becomex  
+  
    -
   <img align="center" alt="azuredevops" height="30" width="30" src="https://github.com/andrefreddi/andrefreddi/blob/main/imagens/azureicon.png">
  </div>
