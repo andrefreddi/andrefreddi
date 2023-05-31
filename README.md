@@ -7,7 +7,7 @@
 
  <div>
   <h4>DevOps na Becomex  
-  
+  <img align="center" alt="azuredevops" height="30" width="30" src="https://github.com/andrefreddi/andrefreddi/blob/main/imagens/bcx-logo.png">
    -
   <img align="center" alt="azuredevops" height="30" width="30" src="https://github.com/andrefreddi/andrefreddi/blob/main/imagens/azureicon.png">
  </div>
